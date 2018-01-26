@@ -1,6 +1,12 @@
-# SemanticTest
+# Semantic-UI Test
 
 This project is an code example for an [Answer](https://stackoverflow.com/questions/48459564/jquery-not-working-in-angular-4-while-using-semanti-ui/48459692#48459692) on stackoverflow.
+
+In this code example you can find, how to use semantic-ui with jquery in angular projects.
+
+This solution resolves following javascript error: `$(..).dropdown() is not a function`
+
+# Information about angular project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
 
