@@ -1,5 +1,7 @@
 # SemanticTest
 
+This project is an code example for an [Answer](https://stackoverflow.com/questions/48459564/jquery-not-working-in-angular-4-while-using-semanti-ui/48459692#48459692) on stackoverflow.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
 
 ## Development server
